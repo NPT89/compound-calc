@@ -254,7 +254,7 @@ export default function CompoundCalculator() {
       <div style={{ position: "fixed", top: -200, right: -200, width: 600, height: 600,
         background: "radial-gradient(circle, rgba(124,255,107,0.03) 0%, transparent 70%)", pointerEvents: "none" }} />
 
-      <div style={{ maxWidth: 900, margin: "0 auto", padding: "36px 20px" }}>
+      <div style={{ maxWidth: 1200, margin: "0 auto", padding: "36px 20px" }}>
         {/* Header */}
         <div style={{ textAlign: "center", marginBottom: 36 }}>
           <div style={{ fontSize: 10, letterSpacing: 4, textTransform: "uppercase", color: "#7cff6b", marginBottom: 8, fontFamily: "'Space Mono', monospace" }}>
